@@ -24,9 +24,9 @@ The tokenizer used in this project follows a simple word-based tokenization appr
 
 ## Future Improvements
 
-- 	Implementing higher-order Markov chains to consider multiple previous tokens for better coherence. Need a larger dataset to capture longer dependencies.
-	•	Exploring n-gram smoothing techniques to improve text generation for rare words.
-	•	Extending the model to use neural networks (e.g., LSTMs or Transformers) for more sophisticated text generation.
+- Implementing higher-order Markov chains to consider multiple previous tokens for better coherence. Need a larger dataset to capture longer dependencies.
+- Exploring n-gram smoothing techniques to improve text generation for rare words.
+- Extending the model to use neural networks (e.g., LSTMs or Transformers) for more sophisticated text generation.
 
 ## License
 
