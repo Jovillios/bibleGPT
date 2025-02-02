@@ -4,7 +4,7 @@ This project showcases a simple markov model for text generation. This model has
 
 ## Usage
 
-To generate a new text from a current word use the command: ```bash python main.py <word>```
+To generate a new text from a current word use the command: ```python main.py <word>```
 
 The model will predict and generate text based on learned probabilities from the dataset.
 
